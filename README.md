@@ -1,7 +1,9 @@
 # Welcome to Avtar project👋
 
    ### Mobile View
+
 https://github.com/user-attachments/assets/2f34822d-d410-46ba-90f9-8205a8b98317  
+
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
